@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokgorkem&label=Profile%20views&color=0e75b6&style=flat" alt="gokgorkem" /> </p>
 
-- 🔭 I’m currently working on **Industrial Embedded Systems**
+- 🔭 I’m currently working on **IT Team Leader**
 
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Embedded Systems.**
 
